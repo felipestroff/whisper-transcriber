@@ -41,7 +41,7 @@ pip install torch  # caso ainda não tenha
 
 - Linux (Debian/Ubuntu): sudo apt install ffmpeg
 - Mac (brew): brew install ffmpeg
-- Windows: [https://ffmpeg.org/download.html?utm_source=chatgpt.com]Download aqui
+- Windows: [Download aqui](https://ffmpeg.org/download.html)
 
 ▶️ Uso
 
