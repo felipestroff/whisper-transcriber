@@ -18,7 +18,7 @@ Este projeto utiliza o [OpenAI Whisper](https://github.com/openai/whisper) para 
 Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/whisper-transcriber.git
+git clone https://github.com/felipestroff/whisper-transcriber.git
 cd whisper-transcriber
 ```
 
@@ -81,8 +81,8 @@ python transcribe.py "C:/Users/Usuario/Music/meu_audio.mp3"
 
 📂 Exemplo de saída:
 
-[0.00s - 5.20s] Olá, bem-vindo ao projeto!
-[5.21s - 10.85s] Este é um teste de transcrição usando Whisper.
+- [0.00s - 5.20s] Olá, bem-vindo ao projeto!
+- [5.21s - 10.85s] Este é um teste de transcrição usando Whisper.
 
 ⚙️ Configurações
 
