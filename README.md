@@ -43,7 +43,7 @@ pip install torch  # caso ainda não tenha
 - Mac (brew): brew install ffmpeg
 - Windows: [Download aqui](https://ffmpeg.org/download.html)
 
-▶️ Uso
+## ▶️ Uso
 
 Coloque seu arquivo .mp3 no diretório do projeto e execute:
 
@@ -56,7 +56,7 @@ O script:
 - Lerá o arquivo de áudio no caminho informado
 - Criará o arquivo meu_audio.txt no diretório atual
 
-📂 Exemplos
+### 📂 Exemplos
 
 Áudio na mesma pasta:
 
@@ -79,12 +79,12 @@ python transcribe.py "C:/Users/Usuario/Music/meu_audio.mp3"
 ```
 # Saída: ./meu_audio.txt
 
-📂 Exemplo de saída:
+### 📂 Exemplo de saída:
 
 - [0.00s - 5.20s] Olá, bem-vindo ao projeto!
 - [5.21s - 10.85s] Este é um teste de transcrição usando Whisper.
 
-⚙️ Configurações
+## ⚙️ Configurações
 
 Para trocar o modelo (tiny, base, small, medium, large), edite no código:
 
